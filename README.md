@@ -8,7 +8,7 @@ This is just a  test plugin to **have fun** with [YAML](https://yaml.org/) in [s
 
 Its also using [Maven](https://maven.apache.org/).
 
-To build, run 
-```shell script
+To build you will need [Gradle](https://gradle.org/), and then run 
+```jshelllanguage
 $ ./gradlew package
 ```
