@@ -5,3 +5,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com) 
 
 This is just a  test plugin to **have fun** with [YAML](https://yaml.org/) in [spigot](https://spigotmc.org).
+
+Its also using [Maven](https://maven.apache.org/).
