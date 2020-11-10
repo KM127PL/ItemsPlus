@@ -1,0 +1,5 @@
+io\github\km127pl\itemsplus\commands\IPCommand.class
+io\github\km127pl\itemsplus\commands\GiveCommand.class
+io\github\km127pl\itemsplus\etc\Functions.class
+io\github\km127pl\itemsplus\handlers\YMLFileManager.class
+io\github\km127pl\itemsplus\Main.class
