@@ -12,3 +12,11 @@ To build you will need [Gradle](https://gradle.org/), and then run
 ```jshelllanguage
 $ ./gradlew package
 ```
+
+Custom Item example:
+
+```yaml
+name: CUSTOM_SWORD #REQUIRED. id of the item ex. custom_sword
+item: DIAMOND_SWORD #REQUIRED. name of the vanilla item you want to use ex. diamond_sword
+display: &cSword of Stars #custom name of the item, supports color codes
+```
